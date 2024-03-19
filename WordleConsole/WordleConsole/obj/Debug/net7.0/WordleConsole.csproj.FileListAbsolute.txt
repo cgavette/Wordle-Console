@@ -1,0 +1,15 @@
+C:\Users\camga\Downloads\C# Code\WordleConsole\WordleConsole\bin\Debug\net7.0\WordleConsole.exe
+C:\Users\camga\Downloads\C# Code\WordleConsole\WordleConsole\bin\Debug\net7.0\WordleConsole.deps.json
+C:\Users\camga\Downloads\C# Code\WordleConsole\WordleConsole\bin\Debug\net7.0\WordleConsole.runtimeconfig.json
+C:\Users\camga\Downloads\C# Code\WordleConsole\WordleConsole\bin\Debug\net7.0\WordleConsole.dll
+C:\Users\camga\Downloads\C# Code\WordleConsole\WordleConsole\bin\Debug\net7.0\WordleConsole.pdb
+C:\Users\camga\Downloads\C# Code\WordleConsole\WordleConsole\obj\Debug\net7.0\WordleConsole.csproj.AssemblyReference.cache
+C:\Users\camga\Downloads\C# Code\WordleConsole\WordleConsole\obj\Debug\net7.0\WordleConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camga\Downloads\C# Code\WordleConsole\WordleConsole\obj\Debug\net7.0\WordleConsole.AssemblyInfoInputs.cache
+C:\Users\camga\Downloads\C# Code\WordleConsole\WordleConsole\obj\Debug\net7.0\WordleConsole.AssemblyInfo.cs
+C:\Users\camga\Downloads\C# Code\WordleConsole\WordleConsole\obj\Debug\net7.0\WordleConsole.csproj.CoreCompileInputs.cache
+C:\Users\camga\Downloads\C# Code\WordleConsole\WordleConsole\obj\Debug\net7.0\WordleConsole.dll
+C:\Users\camga\Downloads\C# Code\WordleConsole\WordleConsole\obj\Debug\net7.0\refint\WordleConsole.dll
+C:\Users\camga\Downloads\C# Code\WordleConsole\WordleConsole\obj\Debug\net7.0\WordleConsole.pdb
+C:\Users\camga\Downloads\C# Code\WordleConsole\WordleConsole\obj\Debug\net7.0\WordleConsole.genruntimeconfig.cache
+C:\Users\camga\Downloads\C# Code\WordleConsole\WordleConsole\obj\Debug\net7.0\ref\WordleConsole.dll
